@@ -2,7 +2,7 @@
 Do you program in Assembly using TASM, TLINK and TD (Turbo Assembler, Turbo Link, Turbo Debugger)<br>
 and tired of openning DosBox and writing the same, long 3 commands over and over?<br>
 <b>DosBossV2</b><br>
-Written in Batch, only write the ASM file name and DosBoss will run it for you.
+Written in Batch, only type the ASM file name and DosBoss will run it for you.
 <br><br>
 <b>How To Use</b><br>
 Just run DosBoss V2.bat and type your ASM file name.<br>
